@@ -6,6 +6,8 @@ Write a function named `is_palindrome` that takes a **string** as input and retu
 
 > 📌 **Note**: Ignore **case** (uppercase/lowercase) when checking for palindrome.
 
+> 📌 **Note** : You are allowed to use your own environment to test the code. You can use any programming language you are comfortable with, as long as you also meet the constraints below.
+
 ## ‍👨‍💻 Example
 
 ```python

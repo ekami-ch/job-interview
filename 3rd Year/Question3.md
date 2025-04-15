@@ -6,6 +6,8 @@ Write a function named `reverse_words` that takes a **string** as input and retu
 
 > 📌 **Note**: You should **not** reverse the characters of each word, only the order of words.
 
+> 📌 **Note** : You are allowed to use your own environment to test the code. You can use any programming language you are comfortable with, as long as you also meet the constraints below.
+
 ## ‍👨‍💻 Example
 
 ```python
