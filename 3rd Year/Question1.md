@@ -14,6 +14,7 @@ print(find_max(numbers))  # Output: 8
 numbers = []
 print(find_max(numbers))  # Output: None
 ```
+
 ## 🚫 Constraints
 1. You have 5 minutes to answer this question
 2. No AI tools allowed

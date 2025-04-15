@@ -6,6 +6,8 @@ Clone the repository.
 
 > 📌 **Note** : You can use whatever method available.
 
+> ️⚠️ **Warning**: All the instructions and questions are in English 🇺🇸
+
 ## 🚫 Constraints  
 
 1. You can't use any AI tools.
